@@ -40,3 +40,22 @@
 - 라즈베리파이 학습
 	- 네트워크 세팅(VNC)
 	- RGB LED / Button 클릭
+	- 온습도 센서
+	- 서보모터
+
+## 6일차
+- 라즈베리파이 학습
+	- MQTT 통신
+		- MQTT Broker IP, port 설정, 계정설정(옵션)
+		- RPi <--> WPF
+		- RPi 온습도 센서값 MQTT 전송
+			- Python paho-mqtt 패키지
+		- WPF 모터, LED 제어값 전송
+			- C# M2Mqtt 패키지
+
+
+<온습도 센서값 전송화면>
+
+<img src="https://github.com/SoYoungHW/pknu-raspberrypi-2023/blob/main/images/dht.gif" width="700">
+
+<모터, LED 라즈베리파이 테스트 결과>
