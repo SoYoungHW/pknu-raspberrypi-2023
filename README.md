@@ -56,6 +56,8 @@
 
 <온습도 센서값 전송화면>
 
-<img src="https://github.com/SoYoungHW/pknu-raspberrypi-2023/blob/main/images/dht.gif" width="700">
+<img src="https://github.com/SoYoungHW/pknu-raspberrypi-2023/blob/main/images/raspberrypi01.gif" width="700">
 
 <모터, LED 라즈베리파이 테스트 결과>
+
+<img src="https://github.com/SoYoungHW/pknu-raspberrypi-2023/blob/main/images/raspberrypi02.jpg" width="700">
